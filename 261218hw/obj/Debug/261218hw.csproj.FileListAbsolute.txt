@@ -1,0 +1,10 @@
+C:\Users\Liron\source\repos\261218hw\261218hw\bin\Debug\261218hw.exe.config
+C:\Users\Liron\source\repos\261218hw\261218hw\bin\Debug\261218hw.exe
+C:\Users\Liron\source\repos\261218hw\261218hw\bin\Debug\261218hw.pdb
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\261218hw.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\_261218hw.Form1.resources
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\_261218hw.Properties.Resources.resources
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\261218hw.csproj.GenerateResource.cache
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\261218hw.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\261218hw.exe
+C:\Users\Liron\source\repos\261218hw\261218hw\obj\Debug\261218hw.pdb
